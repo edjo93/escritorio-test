@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cambios en master.
+=======
+he guardado algo en el archivo de texto.
+>>>>>>> e7a3fce2f6c7064b456f14d1f5642ee8b40442c3
